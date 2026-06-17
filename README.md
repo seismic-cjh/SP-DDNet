@@ -1,6 +1,6 @@
 # Dynamic Denoising Method Based on Semantic Prompts for Mixed Noise Suppression in Seismic Data
 
-<img width="3347" height="519" alt="1" src="https://github.com/user-attachments/assets/5fb65d5b-d39d-447d-951d-c7fa749f6e50" />
+<img width="3405" height="510" alt="1" src="https://github.com/user-attachments/assets/3dd4a5cc-eb6f-4e27-8764-8b1886cdd237" />
 Fig 1. SP-DDNet denoising workflow.
 
 ## 1 Network structure
