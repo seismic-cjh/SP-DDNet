@@ -10,7 +10,7 @@ Tabel 1. The structure settings of each module of SP-DDNet
 
 ## 2 Training dataset
 The training sets consist of semantic recognition datasets and denoising datasets, and the specific process of dataset production is shown in Fig. 2.
-<img width="3399" height="1214" alt="T2" src="https://github.com/user-attachments/assets/56c9641e-b221-4ef0-a882-494328baaa62" />
+<img width="6797" height="2495" alt="T2" src="https://github.com/user-attachments/assets/592b3914-61c3-4372-b490-9f6809a1f84a" />
 Fig 2. The composition of the training dataset.
 
 Notably, the datasets were split into training and validation sets at 8:2. Field noise was multiplied by a random value within (0, 3] to diversify noise levels, and test noise was from independent sources.
